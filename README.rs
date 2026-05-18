@@ -1,6 +1,5 @@
 // ============================================================
 // DQSDv2-GPU Setup Script (Arithmetic + Code Exact Form)
-// Creates: C:\Users\dillb_lzxy763\DQSDv2-GPU\
 // ============================================================
 
 let root = format!("{}/DQSDv2-GPU", std::env::var("HOME").unwrap());
